@@ -1,0 +1,5 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "dev.craftlace.listadepeliculas",
+                 "sha256_cert_fingerprints": ["29:39:DB:91:8F:FA:C4:90:67:C9:3B:32:90:2E:0A:2C:76:92:39:61:95:4A:CA:D3:2B:2D:42:36:FC:A7:66:9E"] }
+  }]
