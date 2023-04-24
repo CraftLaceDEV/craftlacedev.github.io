@@ -1,5 +1,5 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target" : { "namespace": "android_app", "package_name": "dev.craftlace.listadepeliculas",
-                 "sha256_cert_fingerprints": ["29:39:DB:91:8F:FA:C4:90:67:C9:3B:32:90:2E:0A:2C:76:92:39:61:95:4A:CA:D3:2B:2D:42:36:FC:A7:66:9E"] }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "dev.craftlace.listadepeliculas",
+               "sha256_cert_fingerprints": ["00:5B:C2:BE:4B:B4:15:F7:9A:80:7B:D7:B8:1F:39:05:C6:57:DD:48:A0:3B:30:FC:7F:44:F3:E6:F7:A0:98:18"] }
+}]
